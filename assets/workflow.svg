@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1060" height="260" viewBox="0 0 1060 260">
+<rect width="1060" height="260" fill="#f6f7fb"/>
+<text x="530" y="42" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#14213d">Quote → Invoice → Chase → Paid</text>
+<g font-family="Arial,sans-serif" font-size="16" fill="#14213d">
+<g><rect x="30" y="80" width="220" height="110" rx="14" fill="#ffffff" stroke="#2563eb" stroke-width="2"/><text x="140" y="125" text-anchor="middle" font-weight="700">1. Quote</text><text x="140" y="152" text-anchor="middle" font-size="13" fill="#667085">Lines saved from your</text><text x="140" y="170" text-anchor="middle" font-size="13" fill="#667085">own item library</text></g>
+<text x="265" y="140" font-size="26">→</text>
+<g><rect x="295" y="80" width="220" height="110" rx="14" fill="#ffffff" stroke="#0e9594" stroke-width="2"/><text x="405" y="125" text-anchor="middle" font-weight="700">2. Invoice</text><text x="405" y="152" text-anchor="middle" font-size="13" fill="#667085">One click — same lines,</text><text x="405" y="170" text-anchor="middle" font-size="13" fill="#667085">no retyping</text></g>
+<text x="530" y="140" font-size="26">→</text>
+<g><rect x="560" y="80" width="220" height="110" rx="14" fill="#ffffff" stroke="#b7791f" stroke-width="2"/><text x="670" y="125" text-anchor="middle" font-weight="700">3. Chase</text><text x="670" y="152" text-anchor="middle" font-size="13" fill="#667085">Polite · Firm · Final</text><text x="670" y="170" text-anchor="middle" font-size="13" fill="#667085">EN / FR / ES</text></g>
+<text x="795" y="140" font-size="26">→</text>
+<g><rect x="825" y="80" width="205" height="110" rx="14" fill="#e6f4ea" stroke="#1a7f4b" stroke-width="2"/><text x="927" y="125" text-anchor="middle" font-weight="700">4. Paid</text><text x="927" y="152" text-anchor="middle" font-size="13" fill="#667085">Outstanding and overdue</text><text x="927" y="170" text-anchor="middle" font-size="13" fill="#667085">totals at a glance</text></g>
+</g></svg>
