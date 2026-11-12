@@ -16,9 +16,10 @@ With this tool, we:
 
 - Create a **quote** from saved clients and a saved item/service library, in minutes
 - Turn an approved quote into an **invoice in one click** — same lines, no retyping
-- Track every document as draft, sent, paid, or **automatically overdue** by its due date
+- Track every document as draft, sent, paid, or **automatically overdue** by its due date, with **due-in / days-overdue timing** on every invoice
 - See **outstanding, overdue, and paid totals** at a glance
-- Compose a **payment reminder** in three tones — polite, firm, and final — ready to copy and send
+- Compose a **payment reminder** in four steps — a heads-up before the due date, then polite, firm, and final — ready to copy and send
+- Keep a **chase history on every invoice**: each reminder we compose is logged with its date and tone, so we always know what was sent and when
 - Print or save any document as a clean PDF from the browser
 - Export and import a **JSON backup** of everything
 
@@ -28,12 +29,13 @@ Freelancers, trades, consultants, studios, and small service teams who bill clie
 
 ## Trilingual, properly
 
-The interface switches between **English, Français, and Español**. More importantly, each document carries its own language: a client who receives French documents gets a French invoice and French reminders, even if we work in English day to day. The reminder templates are written in each language — polite, firm, and final — not passed through word-for-word machine translation.
+The interface switches between **English, Français, and Español**. More importantly, each document carries its own language: a client who receives French documents gets a French invoice and French reminders, even if we work in English day to day. The reminder templates are written in each language — heads-up, polite, firm, and final — not passed through word-for-word machine translation.
 
 ## How the moat works
 
 - **Your data accumulates here.** Every client we save, every item in the library, and every document in the history makes the next quote faster. That growing, structured history is a switching cost no blank template can match.
-- **Language depth is the niche.** Global billing tools often add languages as a thin translation layer. We wrote the full workflow — interface, documents, and all three reminder tones — in English, French, and Spanish from the start.
+- **Language depth is the niche.** Global billing tools often add languages as a thin translation layer. We wrote the full workflow — interface, documents, and all four reminder steps — in English, French, and Spanish from the start.
+- **The chase history compounds.** Every logged reminder builds a per-client record of what was sent and when. That history is what turns chasing from memory and guesswork into a rhythm — and it lives only in this kit.
 - **It embeds in the weekly workflow.** Quoting, invoicing, and chasing are not one-off tasks; they are the weekly rhythm of getting paid. A tool that sits in that rhythm stays.
 - **Clients see it.** Every quote, invoice, and reminder a client receives came from here — counterparties discover the kit through the documents themselves.
 
