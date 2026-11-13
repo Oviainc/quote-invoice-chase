@@ -20,6 +20,7 @@ With this tool, we:
 - See **outstanding, overdue, and paid totals** at a glance
 - Compose a **payment reminder** in four steps — a heads-up before the due date, then polite, firm, and final — ready to copy and send
 - Keep a **chase history on every invoice**: each reminder we compose is logged with its date and tone, so we always know what was sent and when
+- See the **suggested next step on every unpaid invoice** — heads-up, polite, firm, or final — worked out from its due date and the reminders already logged, with that step pre-selected in the composer, so what to send next is decided before the awkward moment arrives
 - Print or save any document as a clean PDF from the browser
 - Export and import a **JSON backup** of everything
 
@@ -35,7 +36,7 @@ The interface switches between **English, Français, and Español**. More import
 
 - **Your data accumulates here.** Every client we save, every item in the library, and every document in the history makes the next quote faster. That growing, structured history is a switching cost no blank template can match.
 - **Language depth is the niche.** Global billing tools often add languages as a thin translation layer. We wrote the full workflow — interface, documents, and all four reminder steps — in English, French, and Spanish from the start.
-- **The chase history compounds.** Every logged reminder builds a per-client record of what was sent and when. That history is what turns chasing from memory and guesswork into a rhythm — and it lives only in this kit.
+- **The chase history compounds.** Every logged reminder builds a per-client record of what was sent and when. That history is what turns chasing from memory and guesswork into a rhythm — and it lives only in this kit. It also drives the suggested next step on every invoice, so the history does not just record the rhythm, it sets it.
 - **It embeds in the weekly workflow.** Quoting, invoicing, and chasing are not one-off tasks; they are the weekly rhythm of getting paid. A tool that sits in that rhythm stays.
 - **Clients see it.** Every quote, invoice, and reminder a client receives came from here — counterparties discover the kit through the documents themselves.
 
