@@ -19,6 +19,7 @@ With this tool, we:
 - Set the due date in one tap with **payment terms** — due on receipt, Net 7, Net 14, or Net 30 — so every invoice leaves with an explicit, shorter-by-default deadline instead of an open-ended one
 - Track every document as draft, sent, paid, or **automatically overdue** by its due date, with **due-in / days-overdue timing** on every invoice
 - See **outstanding, overdue, and paid totals** at a glance
+- See **who owes what, by client**: every client with money still open, grouped in one view — how many invoices are open, the balance still due, and the oldest due date — so the weekly chase starts from a clear per-client picture, not from memory
 - Compose a **payment reminder** in four steps — a heads-up before the due date, then polite, firm, and final — ready to copy and send
 - Keep a **chase history on every invoice**: each reminder we compose is logged with its date and tone, so we always know what was sent and when
 - **Record part-payments as they arrive**: each payment is logged with its date and amount on the invoice, the **balance due** drops at once, and the dashboard, the documents list, and every reminder then ask only for what is still owed — never for money already received. An invoice paid in full by its payments closes itself
@@ -44,6 +45,7 @@ The interface switches between **English, Français, and Español**. More import
 - **Language depth is the niche.** Global billing tools often add languages as a thin translation layer. We wrote the full workflow — interface, documents, and all four reminder steps — in English, French, and Spanish from the start.
 - **The payment history compounds too.** Every part-payment logged builds the per-invoice record of what arrived and when, so the balance a client is reminded about is always the true balance — that accuracy is part of the history a blank template cannot offer.
 - **The chase history compounds.** Every logged reminder builds a per-client record of what was sent and when. That history is what turns chasing from memory and guesswork into a rhythm — and it lives only in this kit. It also drives the suggested next step on every invoice, so the history does not just record the rhythm, it sets it.
+- **Per-client clarity compounds too.** Balances, part-payments, and due dates roll up per client automatically, so the longer the kit is used, the clearer the picture of who owes what — knowledge a blank template starts from zero on.
 - **Promises are part of the record too.** A promised payment date sits on the invoice alongside its payments and reminders, holds the next step while it is still ahead, and flags itself the day it is missed — the kind of per-client payment behaviour a blank template never learns.
 - **It embeds in the weekly workflow.** Quoting, invoicing, and chasing are not one-off tasks; they are the weekly rhythm of getting paid. A tool that sits in that rhythm stays.
 - **Clients see it.** Every quote, invoice, and reminder a client receives came from here — counterparties discover the kit through the documents themselves.
