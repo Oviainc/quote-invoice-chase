@@ -23,6 +23,7 @@ With this tool, we:
 - Keep a **chase history on every invoice**: each reminder we compose is logged with its date and tone, so we always know what was sent and when
 - **Record part-payments as they arrive**: each payment is logged with its date and amount on the invoice, the **balance due** drops at once, and the dashboard, the documents list, and every reminder then ask only for what is still owed — never for money already received. An invoice paid in full by its payments closes itself
 - See the **suggested next step on every unpaid invoice** — heads-up, polite, firm, or final — worked out from its due date and the reminders already logged, with that step pre-selected in the composer, so what to send next is decided before the awkward moment arrives
+- **Send one statement per client, not one reminder per invoice**: tick the statement box and we compose a single message listing every unpaid invoice for that client — number, due date, and balance due for each, with one total — in the client's document language (English, French, or Spanish). The statement is logged on every invoice it covers, so the chase history stays complete
 - **Send the reminder where the client actually reads it** — one click opens the composed reminder in email (addressed to the saved client email when we have it) or in WhatsApp, ready to send; copy stays available for any other channel
 - Print or save any document as a clean PDF from the browser
 - Export and import a **JSON backup** of everything
