@@ -15,6 +15,9 @@ We built this kit for the moment every service business knows well: the work is 
 With this tool, we:
 
 - Create a **quote** from saved clients and a saved item/service library, in minutes
+- Give every quote a **valid-until date**: it prints on the quote under its own label in the document language, the documents list counts down the days it still holds, and a quote past its date shows as expired — so the price never sits open forever, and the last follow-up has a real date to point at
+- **Follow up on quotes that go quiet** — most quotes are never refused, they are simply never answered. The composer carries a three-step quote rhythm written in English, French, and Spanish: a check-in a few days after sending (did it arrive, is anything unclear), a follow-up about a week later that adds something useful (including splitting the work into a smaller first step), and a closing note near the valid-until date that takes the quote off the list while leaving the door open. Every follow-up is logged on the quote, the documents list suggests the next step for every open quote — from the day it was sent, the follow-ups already logged, and its valid-until date — with that step pre-selected in the composer, and the dashboard counts the open quotes still waiting on an answer
+- **Record the outcome on every quote** — accepted, declined, or expired — so the record shows what actually happened to each quote, not only the ones that became invoices. An accepted quote's next step reads ready to invoice; a closed quote stops asking for follow-ups
 - Turn an approved quote into an **invoice in one click** — same lines, no retyping
 - Set the due date in one tap with **payment terms** — due on receipt, Net 7, Net 14, or Net 30 — so every invoice leaves with an explicit, shorter-by-default deadline instead of an open-ended one
 - Track every document as draft, sent, paid, or **automatically overdue** by its due date, with **due-in / days-overdue timing** on every invoice
@@ -41,7 +44,7 @@ Freelancers, trades, consultants, studios, and small service teams who bill clie
 
 ## Trilingual, properly
 
-The interface switches between **English, Français, and Español**. More importantly, each document carries its own language: a client who receives French documents gets a French invoice and French reminders, even if we work in English day to day. The reminder templates are written in each language — heads-up, polite, firm, and final — not passed through word-for-word machine translation.
+The interface switches between **English, Français, and Español**. More importantly, each document carries its own language: a client who receives French documents gets a French invoice and French reminders, even if we work in English day to day. The reminder templates are written in each language — heads-up, polite, firm, and final — and so are the three quote follow-ups — check-in, follow-up, and closing note — not passed through word-for-word machine translation.
 
 ## How the moat works
 
@@ -55,6 +58,7 @@ The interface switches between **English, Français, and Español**. More import
 - **Days to pay is part of the picture too.** The same creation and payment dates roll up into the average wait automatically, so how fast clients actually pay — not just how much — is visible at a glance. That number only exists because each payment was logged here with its date, and it completes the weekly review: overdue balance, aging mix, collection rate, and now the wait itself.
 - **Terms are part of the record too.** The late-payment terms saved for the business are snapshotted onto every document, so the terms that applied when an invoice was issued stay with that invoice — and they travel with the chase, in the document's own language.
 - **Promises are part of the record too.** A promised payment date sits on the invoice alongside its payments and reminders, holds the next step while it is still ahead, and flags itself the day it is missed — the kind of per-client payment behaviour a blank template never learns.
+- **The quote record compounds too.** Every quote follow-up logged and every outcome recorded builds the front of the same record: which quotes were answered, how long an answer took, and what became of the ones that went quiet. That history drives the suggested next step on every open quote, so the rhythm that gets quotes answered is set by the record, not by memory — and it starts accumulating from the first quote, before any invoice exists.
 - **It embeds in the weekly workflow.** Quoting, invoicing, and chasing are not one-off tasks; they are the weekly rhythm of getting paid. A tool that sits in that rhythm stays.
 - **Clients see it.** Every quote, invoice, and reminder a client receives came from here — counterparties discover the kit through the documents themselves.
 
